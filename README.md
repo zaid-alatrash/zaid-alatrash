@@ -80,11 +80,9 @@
   <br><br>
 
   <!-- قسم عرض المشروع (مستوحى من user working على الكمبيوتر في image_6.png) -->
-  <h3>🚀 Featured Project</h3>
-  <br>
+  
   <!-- يمكنك وضع صورة أو GIF هنا -->
   <div style="border: 2px solid #c9d1d9; border-radius: 15px; padding: 20px; display: inline-block; text-align: center; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
-     <img src="رابط_صورة_مشروعك_الرئيسي.png" alt="Project Preview" width="600" style="border-radius: 10px;"><br><br>
      <h4>AI-Driven Educational Platform</h4>
      <p style="max-width: 500px;">
        A full-stack web application that uses data mining and machine learning algorithms to personalize learning paths for students. Built using PHP, MySQL, Python (TensorFlow), and HTML/CSS/JS.
@@ -98,15 +96,14 @@
   <h3>📬 Let's Connect</h3>
   <p>
     <a href="mailto:بريدك_الإلكتروني" style="text-decoration: none; margin: 0 10px;">
-       <img src="https://img.shields.io/badge/Email-Zaid.Alatrash%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+       <img src="https://img.shields.io/badge/Email-zaid.alatrashcs%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="رابط_لينكد_إن_الخاص_بك" style="text-decoration: none; margin: 0 10px;">
+    <a href="https://www.linkedin.com/in/zaid-alatrash-041212393/" style="text-decoration: none; margin: 0 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-Zaid%20Alatrash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
   
   <br>
   <!-- إحصائيات GitHub (اختياري، يضيف مظهراً احترافياً) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ZaidAlatrash&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
 </div>

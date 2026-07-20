@@ -1,6 +1,7 @@
 <div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
+  <h1 align="center">
+    <a href="https://github.com/ZaidAlatrash">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello+Coders%2F%3E" alt="Typing SVG" />
     </a>
   </h1>
 </div>
@@ -9,7 +10,7 @@
   <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" style="background-color: #161b22; padding: 20px; border-radius: 10px;">
-        <h1 style="color: #c9d1d9; font-size: 48px; font-weight: 800; margin: 0;">Hi, I'm Zaid Alatrash 👋</h1>
+        <h1 style="color: #c9d1d9; font-size: 48px; font-weight: 800; margin: 0;">Hello world, I'm Zaid Alatrash 👋</h1>
         <p style="color: #8b949e; font-size: 20px; margin-top: 10px;">
           Computer Science Student | Software Developer | AI & ML Enthusiast
         </p>

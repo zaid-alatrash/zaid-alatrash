@@ -1,7 +1,6 @@
 <div align="center">
-  <h1 align="center">
-    <a href="https://github.com/ZaidAlatrash">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello+Coders%2F%3E" alt="Typing SVG" />
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
     </a>
   </h1>
 </div>

@@ -93,8 +93,10 @@
     <a href="mailto:بريدك_الإلكتروني" style="text-decoration: none; margin: 0 10px;">
        <img src="https://img.shields.io/badge/Email-Zaid.Alatrash%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="رابط_لينكد_إن_الخاص_بك" style="text-decoration: none; margin: 0 10px;">
-      <img src="www.linkedin.com/in/zaid-alatrash-041212393" alt="LinkedIn">
+    <a href="www.linkedin.com/in/zaid-alatrash-041212393
+
+" style="text-decoration: none; margin: 0 10px;">
+      <img src="https://img.shields.io/badge/LinkedIn-Zaid%20Alatrash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
   
